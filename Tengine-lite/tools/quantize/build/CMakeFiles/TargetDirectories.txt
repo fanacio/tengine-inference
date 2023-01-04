@@ -1,0 +1,9 @@
+/home/tools/Tengine-tengine-lite/tools/quantize/build/CMakeFiles/install/strip.dir
+/home/tools/Tengine-tengine-lite/tools/quantize/build/CMakeFiles/install/local.dir
+/home/tools/Tengine-tengine-lite/tools/quantize/build/CMakeFiles/install.dir
+/home/tools/Tengine-tengine-lite/tools/quantize/build/CMakeFiles/quant_tool_uint8.dir
+/home/tools/Tengine-tengine-lite/tools/quantize/build/CMakeFiles/quant_tool_int8.dir
+/home/tools/Tengine-tengine-lite/tools/quantize/build/CMakeFiles/quant_tool_uint8_perchannel.dir
+/home/tools/Tengine-tengine-lite/tools/quantize/build/CMakeFiles/edit_cache.dir
+/home/tools/Tengine-tengine-lite/tools/quantize/build/CMakeFiles/rebuild_cache.dir
+/home/tools/Tengine-tengine-lite/tools/quantize/build/CMakeFiles/list_install_components.dir

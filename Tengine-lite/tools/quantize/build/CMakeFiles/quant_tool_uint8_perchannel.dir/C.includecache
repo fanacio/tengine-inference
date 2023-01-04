@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tools/Tengine-tengine-lite/tools/save_graph/tm2_generate.c
+string.h
+-
+tm2_generate.h
+/home/tools/Tengine-tengine-lite/tools/save_graph/tm2_generate.h
+
+/home/tools/Tengine-tengine-lite/tools/save_graph/tm2_generate.h
+stdint.h
+-
+
